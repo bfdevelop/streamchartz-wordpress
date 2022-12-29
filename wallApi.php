@@ -6,7 +6,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 class wallApi {
 	
-	const remoteGetApi = 'http://streamchartz.com/fwall/posts'; 
+	const remoteGetApi = 'https://streamchartz.com/fwall/posts'; 
 	
 	/*
 	 * Load wall from remote server
